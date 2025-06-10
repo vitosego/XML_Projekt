@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <recipe id="1">
+        <title>Pileći curry s rižom</title>
+        <category>ručak</category>
+        <mainIngredients>piletina, riža, povrće, kokosovo mlijeko, curry</mainIngredients>
+        <ingredients>
+            <item>500g pilećeg filea</item>
+            <item>200g riže</item>
+            <item>1 luk</item>
+            <item>2 češnja češnjaka</item>
+            <item>1 paprika</item>
+            <item>Curry pasta</item>
+            <item>Kokosovo mlijeko</item>
+            <item>Ulje, sol, papar</item>
+        </ingredients>
+        <instructions>
+            <step>Piletinu narezati na kockice i popržiti na ulju.</step>
+            <step>Dodati sjeckani luk, češnjak i papriku, dinstati.</step>
+            <step>Umiješati curry pastu, zatim kokosovo mlijeko.</step>
+            <step>Kuhati dok se piletina ne skuha.</step>
+            <step>Rižu skuhati zasebno. Poslužiti curry s rižom.</step>
+        </instructions>
+        <image>images/curry.jpg</image> </recipe>
+    <recipe id="2">
+        <title>Tuna salata s tjesteninom</title>
+        <category>ručak</category>
+        <mainIngredients>riba, tjestenina, povrće, tuna, kukuruz</mainIngredients>
+        <ingredients>
+            <item>200g tjestenine (npr. fusilli)</item>
+            <item>1 konzerva tune</item>
+            <item>1 paprika</item>
+            <item>1 rajčica</item>
+            <item>100g kukuruza</item>
+            <item>Majoneza ili maslinovo ulje</item>
+            <item>Sol, papar</item>
+        </ingredients>
+        <instructions>
+            <step>Tjesteninu skuhati prema uputama na pakiranju.</step>
+            <step>Tunu ocijediti. Papriku i rajčicu narezati na kockice.</step>
+            <step>Sve sastojke pomiješati u zdjeli. Dodati majonezu/ulje, sol i papar po ukusu.</step>
+        </instructions>
+        <image>images/tuna_pasta.jpg</image> </recipe>
+    <recipe id="3">
+        <title>Omlet sa sirom</title>
+        <category>doručak</category>
+        <mainIngredients>jaja, sir</mainIngredients>
+        <ingredients>
+            <item>3 jaja</item>
+            <item>50g sira (npr. Gauda, Cheddar)</item>
+            <item>Malo mlijeka</item>
+            <item>Ulje, sol, papar</item>
+        </ingredients>
+        <instructions>
+            <step>Jaja razmutiti s malo mlijeka, soli i papra.</step>
+            <step>Sir naribati ili narezati na sitne kockice.</step>
+            <step>Zagrijati ulje na tavi, uliti jaja. Prije nego se stisnu, posuti sirom.</step>
+            <step>Peći dok omlet ne bude gotov.</step>
+        </instructions>
+        <image>images/omelet.jpg</image> </recipe>
+    <recipe id="4">
+        <title>Svinjski kotleti s krumpirom</title>
+        <category>večera</category>
+        <mainIngredients>svinjetina, krumpir, ružmarin, češnjak</mainIngredients>
+        <ingredients>
+            <item>2 svinjska kotleta</item>
+            <item>4 srednja krumpira</item>
+            <item>Maslinovo ulje</item>
+            <item>Ružmarin, češnjak u prahu</item>
+            <item>Sol, papar</item>
+        </ingredients>
+        <instructions>
+            <step>Krompir oguliti i narezati na ploške ili kockice.</step>
+            <step>U zdjeli pomiješati krumpir s maslinovim uljem, ružmarinom, solju i paprom.</step>
+            <step>Kotlete začiniti solju, paprom i češnjakom u prahu.</step>
+            <step>Posložiti krumpir i kotlete na pleh obložen papirom za pečenje.</step>
+            <step>Peći u zagrijanoj pećnici na 200°C oko 30-40 minuta, dok ne omekša i porumeni.</step>
+        </instructions>
+        <image>images/pork_chops.jpg</image> </recipe>
+    <recipe id="5">
+        <title>Voćna salata s jogurtom</title>
+        <category>doručak</category>
+        <mainIngredients>voće, jogurt, jabuka, banana, bobičasto voće</mainIngredients>
+        <ingredients>
+            <item>1 jabuka</item>
+            <item>1 banana</item>
+            <item>Šaka bobičastog voća</item>
+            <item>100g grčkog jogurta</item>
+            <item>Malo meda (opcionalno)</item>
+        </ingredients>
+        <instructions>
+            <step>Voće oprati i narezati na sitne komadiće.</step>
+            <step>Sve sastojke pomiješati u zdjeli. Po želji dodati malo meda za slatkoću.</step>
+        </instructions>
+        <image>images/fruit_salad.jpg</image> </recipe>
+    <recipe id="6">
+        <title>Varivo od leće</title>
+        <category>ručak</category>
+        <mainIngredients>leća, povrće, luk, mrkva, češnjak, rajčica</mainIngredients>
+        <ingredients>
+            <item>200g leće</item>
+            <item>1 luk</item>
+            <item>2 mrkve</item>
+            <item>2 češnja češnjaka</item>
+            <item>Lovorov list</item>
+            <item>Pasirana rajčica</item>
+            <item>Voda ili povrtni temeljac</item>
+            <item>Ulje, sol, papar</item>
+        </ingredients>
+        <instructions>
+            <step>Leću namočiti (ako je potrebno) i ocijediti.</step>
+            <step>Na ulju propirjati luk i mrkvu, dodati češnjak.</step>
+            <step>Dodati leću, lovorov list, pasiranu rajčicu i temeljac/vodu.</step>
+            <step>Kuhati dok leća ne omekša. Začiniti po ukusu.</step>
+        </instructions>
+        <image>images/lentil_stew.jpg</image> </recipe>
+    <recipe id="7">
+        <title>Sendvič sa puretinom i povrćem</title>
+        <category>doručak</category>
+        <mainIngredients>puretina, kruh, salata, rajčica</mainIngredients>
+        <ingredients>
+            <item>2 šnite kruha</item>
+            <item>50g pureće šunke</item>
+            <item>List zelene salate</item>
+            <item>Šnita rajčice</item>
+            <item>Malo majoneze</item>
+        </ingredients>
+        <instructions>
+            <step>Kruh namazati majonezom.</step>
+            <step>Složiti pureću šunku, zelenu salatu i rajčicu.</step>
+            <step>Poklopiti drugim šnitom kruha.</step>
+        </instructions>
+        <image>images/sandwich.jpg</image> </recipe>
+</recipes>
